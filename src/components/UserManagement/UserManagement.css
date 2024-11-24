@@ -1,0 +1,23 @@
+.user-management {
+  padding: 1rem;
+}
+
+.form {
+  margin-bottom: 1rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+table th,
+table td {
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+}
+
+table th {
+  background-color: #f4f4f4;
+}
